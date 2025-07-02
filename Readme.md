@@ -1,55 +1,57 @@
-# 👋 Hi, I’m Gudhal Chauhan
+# Hey, I'm Draken 👨‍💻⚡
 
-🎯 **Full Stack Developer** | FastAPI • Next.js • Supabase • Docker  
-🔍 I love building tools that solve real problems — scrapers, repo analyzers, bug trackers  
-🌍 Open to **remote internships**, **freelance gigs**, and open-source **collaborations**
+> "No vibe coding. Just building. Every damn day."
 
----
+## 🚀 About Me
 
-## 🛠️ Tech Stack
+I'm a **full-time full stack dev** on a 2-year mission to master **backend systems, full stack apps, and DSA**.  
+Not here for 9-5. I'm here to **build legendary stuff**, contribute to open source, and **launch products that scale**.
 
-**Backend**: Python, FastAPI, PostgreSQL, Supabase  
-**Frontend**: React.js, Next.js, TailwindCSS  
-**DevOps**: Docker, GitHub Actions, CI/CD  
-**Tools**: Web Scraping, REST APIs, Git, SQLite
-
----
-
-## 🔥 Featured Projects
-
-### 🚀 [RepoVista](https://github.com/DRAKEN-1974/repovista) – GitHub Repo Analyzer  
-Full stack app to analyze GitHub repositories and visualize trends, badges, and contributor highlights.  
-**Tech**: FastAPI • PostgreSQL • Docker • GitHub Actions
-
-🌐 [Live Demo](https://repovista.vercel.app) | 📂 [Code](https://github.com/DRAKEN-1974/repovista)
+- 🔧 Tech Stack: **Python**, **FastAPI**, **Flask**, **Next.js**, **PostgreSQL**, **Docker**, **Vercel**
+- 🧠 Currently leveling up: **System Design**, **Data Structures & Algorithms**, **CI/CD**
+- 🌍 Building projects like:
+  - ✅ Web scrapers, GitHub analyzers, bug tracking systems
+  - ✅ AI-powered assistants & microservices
+  - ✅ DevOps & production-ready APIs
 
 ---
 
-### 🧠 [SmartScrape](https://github.com/DRAKEN-1974/web-scraper) – Web Scraping Toolkit  
-CLI + Web UI tool for structured data scraping. Exports to CSV/SQLite. Great for automation tasks.  
-**Tech**: Python • BeautifulSoup • CLI • Requests • SQLite
+## 🛠 Tech Toolbox
 
-🌐 [Live Demo](https://web-scraper-zdoy.vercel.app) | 📂 [Code](https://github.com/DRAKEN-1974/web-scraper)
-
----
-
-### 🐛 [BugBlitz](https://github.com/DRAKEN-1974/bugblitz) – Issue Tracker for Developers  
-Bug tracker with full CRUD, JWT auth, and real-time dashboard UI for dev teams.  
-**Tech**: FastAPI • Next.js • TailwindCSS • PostgreSQL
-
-📂 [Code](https://github.com/DRAKEN-1974/bugblitz)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
 
 ---
 
-## 🤝 Let’s Collaborate
+## 💥 Currently Working On
 
-I’m currently looking for:
-- 🌍 Remote **internships** or **freelance work**
-- 🧠 Collaboration on open-source tools, dev dashboards, or SaaS ideas
-- 🚀 Founders who need a full stack dev to build fast and clean
+🚧 Building an **AI-Powered Bug Fix Assistant** using **Next.js + Python backend**  
+🧱 Architecting **microservices** that scale, with full CI/CD pipelines  
+📦 Containerizing projects, pushing to **production-ready deploys** on Vercel/Docker
 
-📫 **Email**: [gudhalarya@gmail.com](mailto:gudhalarya@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/gudhal-chauhan-187928295](https://www.linkedin.com/in/gudhal-chauhan-187928295)  
-🐙 **GitHub**: [github.com/DRAKEN-1974](https://github.com/DRAKEN-1974)
+---
 
-Let’s build something cool together 💻🚀
+## 📈 GitHub Stats
+
+![Draken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=draken1974&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draken1974&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 📫 Email: `gudhalarya@gmail.com` *(replace with your real one)*
+- 🧠 Motto: "Think like an engineer. Code like a craftsman."
+- 🤝 Open to: Collabs, OSS contributions, high-impact dev projects
+
+---
+
+> “In a world full of tutorials and clones, be the architect who ships.”
+
