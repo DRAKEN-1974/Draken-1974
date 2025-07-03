@@ -78,8 +78,8 @@ Analyzes any GitHub repo:
 
 Want to collaborate or just say hi?
 
-- ✉️ Email: `gudhalarya@gmail.com` *(replace with real one)*
-- 🌐 Portfolio: [Coming Soon](https://github.com/draken1974)
+- ✉️ Email: `gudhalarya@gmail.com` 
+- 🌐 Portfolio: (https://github.com/draken1974)
 - 🧠 Motto: “No vibe coding. Only real shipping.”
 
 ---
