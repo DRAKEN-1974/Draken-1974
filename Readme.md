@@ -1,3 +1,5 @@
+
+```md
 # 👋 Hey, I'm Gudhal Chauhan
 
 🎓 B.Tech Student | 🖥️ Developer | 🧠 Python & Rust Enthusiast  
@@ -74,7 +76,7 @@
 
 ---
 
-## 🔥 My GitHub Metrics
+## 🔥 GitHub Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draken-1974&theme=tokyonight" />
@@ -98,4 +100,4 @@
 
 ---
 
-> _"Obsessed with solving problems through code. Dream big. Build bigger."_ 🚀
+> _“Hacking together ideas. Thinking like a systems engineer. Dreaming like a builder.”_ ⚙️💡
