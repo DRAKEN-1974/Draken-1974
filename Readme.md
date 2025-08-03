@@ -1,3 +1,20 @@
+<!-- CMatrix-style ASCII -->
+```
+ ██████╗███╗   ███╗ █████╗ ██████╗ ██╗  ██╗
+██╔════╝████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝
+██║     ██╔████╔██║███████║██████╔╝█████╔╝ 
+██║     ██║╚██╔╝██║██╔══██║██╔═══╝ ██╔═██╗ 
+╚██████╗██║ ╚═╝ ██║██║  ██║██║     ██║  ██╗
+ ╚═════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+     👨‍💻 GUDHAL CHAUHAN // DEV • BUILDER • LEARNER
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&center=true&vCenter=true&color=7CFC00&width=435&lines=B.Tech+IT+Student+%7C+Rustacean+%7C+OpenAI+Dreamer;Linux+Tuner+%7C+Creative+Dev+%7C+Problem+Solver" />
+</p>
+
+---
+
 # 👋 Hey, I'm Gudhal Chauhan
 
 🎓 B.Tech Student | 🖥️ Developer | 🧠 Python & Rust Enthusiast  
@@ -18,23 +35,9 @@
 
 ## ⚙️ My Tech Toolbox
 
-**Languages & Runtime:**  
-![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & Tools:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,c,java,html,css,react,firebase,mongodb,git,linux,vscode&theme=dark" />
+</p>
 
 ---
 
@@ -74,7 +77,7 @@
 
 ---
 
-## 🔥 My GitHub Metrics
+## 🔥 GitHub Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draken-1974&theme=tokyonight" />
@@ -86,6 +89,23 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=draken-1974&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🎧 Now Playing
+
+<p align="center">
+  <img src="https://spotify-now-playing-delta.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+</p>
+
+---
+
+## 🎶 Current Fav Song - Karan Aujla
+
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a97d58d4260e56f5a06140f3" width="200px" /><br>
+  <strong>Softly - Karan Aujla</strong>
 </p>
 
 ---
